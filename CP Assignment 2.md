@@ -98,7 +98,7 @@ Run it with `(main 0)`
 
 **Screenshot**
 
-![boat_is_flowing](/Users/simones/Desktop/image/boat_is_flowing.png)
+![boat_is_flowing](/image/boat_is_flowing.png)
 
 ### 2.  Make some waves
 
@@ -235,6 +235,6 @@ Run it with `(main 0)`
 
 **Image**
 
-![boat_floating_1](/Users/simones/Desktop/image/boat_floating_1.png)
+![boat_floating_1](/image/boat_floating_1.png)
 
-![boat_floating_2](/Users/simones/Desktop/image/boat_floating_2.png)
+![boat_floating_2](/image/boat_floating_2.png)

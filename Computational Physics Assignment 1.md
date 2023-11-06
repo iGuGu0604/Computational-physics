@@ -1,11 +1,11 @@
 # Computational Physics Assignment 1
 
-### 1. Draw a UFO and let it land on the flat rock
+### 1. Draw a UFO and let it land on a flat rock
 
-**Code and explaination:**
+**Code and explanation:**
 
 ```lisp
-;This line is a example of explaination
+;This line is an example of explanation
 
 (require 2htdp/image) ;require the package to draw
 (require 2htdp/universe) ;require the package to play animation
@@ -36,13 +36,13 @@
 
 **Screenshot**
 
-<img src="/Users/simones/Desktop/ufo_1.png" alt="ufo_1" style="zoom:50%;" />
+<img src="/image/ufo_1.png" alt="ufo_1" style="zoom:50%;" />
 
 
 
-<img src="/Users/simones/Desktop/ufo_2.png" alt="ufo_2" style="zoom:50%;" />
+<img src="/image/ufo_2.png" alt="ufo_2" style="zoom:50%;" />
 
-<img src="/Users/simones/Desktop/ufo_4.png" alt="ufo_4" style="zoom:50%;" />
+<img src="/image/ufo_4.png" alt="ufo_4" style="zoom:50%;" />
 
 ### 2. Define a boat
 
@@ -66,4 +66,4 @@
 
 **Image**
 
-![a_boat](/Users/simones/Desktop/a_boat.png)
+![a_boat](/image/a_boat.png)

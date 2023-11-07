@@ -10,8 +10,11 @@ The language we used is called Racket, it belongs to the Lisp family. Although i
 
 Content:
 Assignment 1: draw a boat, let a ufo land on a flat rock
+
 Assignment 2:let the boat floating
+
 Assignment 6: simple pendulum and chaotic system
+
 Assignment final: molecular dynamics and FPUT model
 
 

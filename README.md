@@ -15,7 +15,8 @@ Assignment 2:let the boat floating
 
 Assignment 6: simple pendulum and chaotic system
 
-Assignment final: molecular dynamics and FPUT model
+Assignment final: molecular dynamics and FPUT model, Compare two videos, we can see the larger $`\beta`$
+ make system go into chaotic situation faster.
 
 
 

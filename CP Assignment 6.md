@@ -213,11 +213,10 @@ $`-q\frac{d\theta}{dt}`$ is friction and $`F_D\sin(\Omega_Dt)`$ can be driving f
 `Runge-Kutta-Method`：consider more points‘ slops in $[x_n,x_{n+1}]$ ，the average slope$`K`$ can be calculated from the weighted sum $K$，it can increase the accuracy.
 
 ```math
-```
+
 
   \omega_{n+1}=\omega_n +(k_1+2k_2+2k_3+k_4)\frac{dt}{6} \\k_1=f(\omega_n,t_n) \\k_2=f(\omega_n+k_1\frac{dt}{2},t_n+\frac{dt}{2}) \\k_3=f(\omega_n+k_2\frac{dt}{2},t_n+\frac{dt}{2}) \\k_4=f(\omega_n+k_3dt,t_n+dt)
 
-```
 ```
 
 ![3_7](/image/3_7.png)

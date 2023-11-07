@@ -8,6 +8,14 @@ it's funny that I'm translating this homework to English to make others understa
 
 The language we used is called Racket, it belongs to the Lisp family. Although it's barely used in computational physics, I guess our teacher used it for equity, because Racket was new for everyone.
 
+Content:
+Assignment 1: draw a boat, let a ufo land on a flat rock
+Assignment 2:let the boat floating
+Assignment 6: simple pendulum and chaotic system
+Assignment final: molecular dynamics and FPUT model
+
+
+
 below is the model in final 
 
 

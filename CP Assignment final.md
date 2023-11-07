@@ -13,9 +13,9 @@ The advantage is, it can keep the energy conservation even in a long time scale.
 ```math
  x_i(n+1) \approx  2x_i(n)-x_i(n-1)+a_{i,x}(n)(\Delta t)^2\\
 \\
-&v_{i,x}(n) \approx  \frac{x_i(n+1)-x_i(n-1)}{2\Delta t}\\
+v_{i,x}(n) \approx  \frac{x_i(n+1)-x_i(n-1)}{2\Delta t}\\
 \\
-&a_{i,x}=\frac{d^2x_i}{dt^2} \approx  \frac{x_i(n+1)+x_i(n-1)-2x_i(n)}{(\Delta t)^2}
+a_{i,x}=\frac{d^2x_i}{dt^2} \approx  \frac{x_i(n+1)+x_i(n-1)-2x_i(n)}{(\Delta t)^2}
 
 ```
 
@@ -84,6 +84,7 @@ The frequency is
 ## Image
 
 Compare two videos, we can see the larger $`\beta`$ make system go into chaotic situation faster.
+/image/beta1.mov
 
 The energy of 1th, 3th, 5th modes by time.![final_1](/image/final_1.png)
 

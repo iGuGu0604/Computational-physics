@@ -6,11 +6,10 @@ Finish 3 problems in the textbook:
 
 The motion equation of a simple pendulum can be written as 
 
-'''math
+```math
 
  \frac{\mathrm{d}^{2} \theta}{\mathrm{d} t^{2}}=-\frac{g}{l} \sin \theta-q \frac{\mathrm{d} \theta}{\mathrm{d} t}+F_{D} \sin \left(\Omega_{D} t\right) 
-
-'''
+```
 
 $`-q\frac{d\theta}{dt}`$ is friction and $`F_D\sin(\Omega_Dt)`$ can be driving force term. By simulation, we can know, given proper parameters the system can reach to a state with stable period and amptitude.
 

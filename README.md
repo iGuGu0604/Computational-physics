@@ -8,4 +8,12 @@ it's funny that I'm translating this homework to English to make others understa
 
 The language we used is called Racket, it belongs to the Lisp family. Although it's barely used in computational physics, I guess our teacher used it for equity, because Racket was new for everyone.
 
-https://github.com/iGuGu0604/Computational-physics/blob/d4e637a5d7e42fa3c2422ff6982b6653c9a65f19/image/beta1.mov
+below is the model in final 
+
+
+https://github.com/iGuGu0604/Computational-physics/assets/83436605/c2295b3f-783f-4358-b6f7-b75146ffd320
+
+
+
+https://github.com/iGuGu0604/Computational-physics/assets/83436605/b3256220-d002-48a5-9b57-ddfa82f039bc
+

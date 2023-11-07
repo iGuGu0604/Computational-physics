@@ -87,6 +87,8 @@ Compare two videos, we can see the larger $`\beta`$ make system go into chaotic 
 
 [/image/beta1.mov](https://github.com/iGuGu0604/Computational-physics/blob/d4e637a5d7e42fa3c2422ff6982b6653c9a65f19/image/beta1.mov)https://github.com/iGuGu0604/Computational-physics/blob/d4e637a5d7e42fa3c2422ff6982b6653c9a65f19/image/beta1.mov
 
-The energy of 1th, 3th, 5th modes by time.![final_1](/image/final_1.png)
+The energy of 1th, 3th, 5th modes by time.
+
+![final_1](/image/final_1.png)
 
 ![final_2](/image/final_2.png)
